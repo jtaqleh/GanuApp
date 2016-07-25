@@ -7,6 +7,7 @@
     android:layout_height="match_parent"
     android:padding="16dp" >
 
+<!-- The tools:text attribute will be override in the java code so it will display an ArrayList of words -->
     <TextView
         android:id="@+id/default_text_view"
         android:layout_width="match_parent"
