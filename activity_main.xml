@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white_background"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <!-- Since we are using an event listener the onClick
+    attribute will be deleted -->
+    <TextView
+        android:id="@+id/numbers"
+        style="@style/CategoryStyle"
+        android:background="@color/category_numbers"
+        android:text="@string/category_numbers"
+        android:textColor="@color/black_font_color"
+        />
+
+    <TextView
+        android:id="@+id/family"
+        style="@style/CategoryStyle"
+        android:background="@color/category_family"
+        android:text="@string/category_family" />
+
+    <TextView
+        android:id="@+id/action"
+        style="@style/CategoryStyle"
+        android:background="@color/category_action"
+        android:text="Action"
+        android:textColor="@color/black_font_color" />
+
+    <TextView
+        android:id="@+id/phrases"
+        style="@style/CategoryStyle"
+        android:background="@color/category_phrases"
+        android:text="@string/category_phrases" />
+</LinearLayout>
