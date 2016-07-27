@@ -1,0 +1,3 @@
+This file stores the resources file for the GanuApp. Files such as Drawable, Layout, Mipmap and Values will be added here.
+The reason to do this is clearly organizational so that it will be easy to distinguish seperate files according to their
+specific files on Android Studio.
