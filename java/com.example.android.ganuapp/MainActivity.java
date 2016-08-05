@@ -1,5 +1,5 @@
 /*
-This app is called the GanuApp. I've created this app as part of my udacity course project. This app
+This app is called the GanuApp. I've created this app as part of my udacity android project. This app
 will function as a dictionary from English to Malay in Terengganu accent. As part of my heritage I
 am proud to be working on this project and I hope this app will function as intended.
  Programmer: b1G_p4Pp1 (Jake Taqleh)
